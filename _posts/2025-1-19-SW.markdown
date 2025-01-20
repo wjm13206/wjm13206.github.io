@@ -1,0 +1,11 @@
+---
+layout:     post
+title:      "hello word"
+subtitle:   "hello word "
+date:       2025-1-19 11:45:14
+author:     "SYSTEM-WJM"
+
+---
+
+
+hello word
