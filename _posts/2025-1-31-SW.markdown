@@ -1,0 +1,42 @@
+---
+layout:     post
+title:      "wjmcmd 1.0命令列表"
+subtitle:   "wjmcmd 1.0命令列表"
+date:       2025-1-31 11:45:14
+author:     "SYSTEM-WJM"
+
+---
+
+
+##命令列表##
+
+clear: 清除终端屏幕: clear
+compress: 压缩文件或目录: compress 
+date: 显示今天的日期: date
+decompress: 解压压缩文件: decompress 
+diskusage: 显示磁盘使用情况: diskusage
+echo: 打印输入的文本到控制台: echo 
+exit: 退出程序: exit
+fileinfo: 显示文件信息: fileinfo
+find: 查找文件: find 
+help: 显示命令的帮助信息: help 
+history: 显示命令历史: history
+ifconfig: 显示网络接口信息: ifconfig
+kill: 根据进程ID杀死进程: kill [pid]
+load: 从文件加载内容并打印: load 
+loadavg: 显示系统负载: loadavg
+mkdir: 创建目录: mkdir [dirname]
+netstat: 显示网络连接状态: netstat
+ps: 显示当前运行的进程: ps
+rm: 删除文件或目录: rm [path]
+save: 保存命令历史到文件: save 
+sleep: 让命令行工具暂停一段时间: sleep 
+sysinfo: 显示系统信息: sysinfo
+time: 显示当前时间: time
+uptime: 显示系统启动时间: uptime
+users: 显示当前登录用户: users
+viewlog: 查看日志文件内容: viewlog 
+
+##更新日志##
+
+初始版本
